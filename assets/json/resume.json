@@ -17,7 +17,7 @@
     "url": "https://www.columbia.edu/",
     "studyType": "Columbia University",
     "startDate": "Sep 2024",
-    "endDate": "May 2029",
+    "endDate": "Present",
     "concentration": "Industrial Engineering and Operations Research"
   },
       {
@@ -38,11 +38,11 @@
     ],
   "work": [
     {
-      "name": "",
+      "name": "Princeton Reinforcement Learning Lab",
       "position": "Research Intern",
       "startDate": "Jun 2024",
       "endDate": "Aug 2024",
-      "highlights": ["In Progress"]
+      "highlights": ["Developed learned representations for goal-conditioned RL policies to improve generalization to unseen goals in continuous control environments, using both end-to-end training and contrastive learning techniques"]
     },
     {
       "name": "Citi Bank",
